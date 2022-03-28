@@ -1,5 +1,5 @@
-s1={23,37,91.8,10,"python",(10,20,30)}
-s2=set([3,8,1,9,10])
+s1={23,37,91.8,10,"python",(1,2,3)}
+s2=set([10,8,6,4,2,7])
 print("\n1.Print set elements\n2.Datatype of t1\n3.Add an element to s1\n4.Update elements\n5.Discard\n6.Remove\n7.Clear s1\n8.Union of s1 and s2\n9.Intersection of s1 and s2\n10.Difference of s1 and s2\n11.Symmetric difference of s1 and s2\n12.Check  s2 is disjoint of s1\n13.Check  s2 is subset of s1\n14.Pop operation\n15.Copy\n16.Display elements in s1 using for loop\n17.Display maximum value\n18.Display minimum value\n19.Sum of elements in set\n20.Sort operation\n21.Length of the set")
 n=int(input("\nPress any number : "))
 if(n==1):
