@@ -1,5 +1,5 @@
-t1=(11,17,7,"chocolate",7.7,"berry")
-t2=(2,4,6,8,10)
+t1=(91,17,9,"chocolate","cream")
+t2=(1,2,,3,4,5,6,7 )
 
 print("t1 : ",t1)
 print("t2 : ",t2,"\n")
